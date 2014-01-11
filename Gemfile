@@ -13,6 +13,10 @@ group :development, :test do
   gem 'rspec-rails'
 end
 
+group :test do
+  gem 'capybara'
+end
+
 group :doc do
   gem 'sdoc', require: false
 end
