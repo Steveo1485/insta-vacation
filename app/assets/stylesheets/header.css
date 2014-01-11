@@ -1,0 +1,13 @@
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #1abc9c;
+}
+
+header h1 {
+	text-align: center;
+	font-family: 'Peralta', cursive;
+	color: #fff;
+}
